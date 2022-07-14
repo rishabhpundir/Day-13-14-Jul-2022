@@ -1,0 +1,14 @@
+/* div ul li p{
+    color: whitesmoke;
+    background-color: #222;
+} */
+
+/* div > p{
+    color: whitesmoke;
+    background-color: #222;
+} */
+
+div + p{
+    color: whitesmoke;
+    background-color: #222;
+}
